@@ -1,4 +1,4 @@
-# Mi-primer-proyecto
+# Proyecto 1
 Mi primer proyecto en GitHUB
 
 ## Descripción
